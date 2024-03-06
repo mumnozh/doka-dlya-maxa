@@ -48,6 +48,8 @@ flowchart TB
 
 Убедился, что Перфекционизм -[^1] это не твой бро???!!!
 
+![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fru%2FRqUr&psig=AOvVaw1Dd2LG54hF4Y3-20MHFgkG&ust=1709845950322000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiJtNfG4IQDFQAAAAAdAAAAABAl)
+
 ---
 [^1]: ты так и не заметил, что все тире в этой доке короткие....
 
