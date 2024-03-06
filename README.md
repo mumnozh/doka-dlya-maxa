@@ -1,5 +1,5 @@
->*The Fuck Up Philosophy — a counterintuitive way to get out of a perfectionist [[rut]].
-> — video from [[struthless]]*
+>*The Fuck Up Philosophy — a counterintuitive way to get out of a perfectionist rut.
+> — video from struthless*
 
 ---
 Концепция восприятия любого дела, говорящая о том, что оно ***должно*** провалиться.
