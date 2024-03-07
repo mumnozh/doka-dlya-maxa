@@ -1,0 +1,8 @@
+<%*
+const folders = this.app.vault.getAllLoadedFiles().filter(i => i.children).map(folder => folder.path);
+const folderPath = await tp.system.suggester(folders, folders);
+if (!folderPath) return
+const title = await tp.system.prompt("Title")
+if (!title) return
+await tp.file.create_new("",`${title}`, true,app.vault.getAbstractFileByPath(`${folderPath}`)) 
+%>
